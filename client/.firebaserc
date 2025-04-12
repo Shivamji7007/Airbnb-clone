@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "airbnb-clone-c97e6"
+  },
+  "targets": {},
+  "etags": {
+    "airbnb-clone-c97e6": {
+      "extensionInstances": {}
+    }
+  }
+}

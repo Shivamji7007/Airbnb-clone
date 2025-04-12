@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "outDir": "lib",
+    "strict": true,
+    "noImplicitReturns": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "noUnusedLocals": true
+  },
+  "include": [
+    "src/**/*.ts"  // Include all .ts files in the src folder
+  ],
+  "exclude": [
+    "node_modules"  // Exclude node_modules folder
+  ]
+}
